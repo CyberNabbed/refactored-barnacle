@@ -1,4 +1,4 @@
-UNIFIED INVENTORY MANAGEMENT
+UNIFIED INVENTORY MANAGEMENT (Sanatized Public Codebase)
 =========================
  
 OVERVIEW
@@ -8,6 +8,9 @@ I wrote this tool to automate the process of updating IT asset inventories. Inst
 It handles two main data sources:
 1. Excel Attachments: It pulls rows directly from attached spreadsheets.
 2. Email Body Text: It parses "Equipment Loan Agreement" forms (Etrieve) directly from the text of the email.
+
+
+Initialize UI > Input Selection > Data Extraction > Data Cleaning and Normalization > Master List Verification > Final Export and Summary
  
 FEATURES
 --------
